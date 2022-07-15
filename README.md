@@ -1,11 +1,39 @@
-<h1 align="center">Hola Guapos, Soy su Querido Isonix!<3</h1>
-<h3 align="center">Empece haciendo un bot de musica en discord, y termine desarrollando bots y creando cosas xD!</h3>
+<div align="center">
+    <span class="obj0"></span><br>
+    <img class="obj1" src="./assets/banner.jpg"><br>
+    <span class="obj2"></span><br>
+    <img class="obj3" src="https://crafatar.com/avatars/36cddf93-42a7-4fc3-a9b5-31a6623ca66b?size=100">
+</h1>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
-  <img style="height:auto;" alt="" width="260" height="260" class="avatar avatar-user width-full border color-bg-default" src="https://avatars.githubusercontent.com/u/80212291?v=4">
+<style>
+    span.obj0 {
+        background: black;
+        border-radius: 20px;
+        display: inline-block;
+        width: 480px;
+        height: 520px; 
+    }
+    .obj1 {
+        width: 460px;
+        height: 290px; 
+        border-radius: 20px;
+        position: relative;
+        bottom: 515px
+    }
+    span.obj2 {
+        background: black;
+        border-radius: 100px;
+        display: inline-block;
+        width: 200px;
+        height: 200px;
+        position: relative; 
+        bottom: 550px
+    }
+    .obj3 {
+        width: 180px;
+        height: 180px; 
+        border-radius: 90px;
+        position: relative;
+        bottom: 745px
+    }
+</style>
