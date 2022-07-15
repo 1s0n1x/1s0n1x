@@ -1,4 +1,4 @@
-<div align="center">
+<h1 align="center">
     <span class="obj0"></span><br>
     <img class="obj1" src="./assets/banner.jpg"><br>
     <span class="obj2"></span><br>
