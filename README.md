@@ -1,39 +1,21 @@
-<h1 align="center">
-    <span class="obj0"></span><br>
-    <img class="obj1" src="./assets/banner.jpg"><br>
-    <span class="obj2"></span><br>
-    <img class="obj3" src="https://crafatar.com/avatars/36cddf93-42a7-4fc3-a9b5-31a6623ca66b?size=100">
-</h1>
-
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="./github-markdown.css">
 <style>
-    span.obj0 {
-        background: black;
-        border-radius: 20px;
-        display: inline-block;
-        width: 480px;
-        height: 520px; 
-    }
-    .obj1 {
-        width: 460px;
-        height: 290px; 
-        border-radius: 20px;
-        position: relative;
-        bottom: 515px
-    }
-    span.obj2 {
-        background: black;
-        border-radius: 100px;
-        display: inline-block;
-        width: 200px;
-        height: 200px;
-        position: relative; 
-        bottom: 550px
-    }
-    .obj3 {
-        width: 180px;
-        height: 180px; 
-        border-radius: 90px;
-        position: relative;
-        bottom: 745px
-    }
+	.markdown-body {
+		box-sizing: border-box;
+		min-width: 200px;
+		max-width: 980px;
+		margin: 0 auto;
+		padding: 45px;
+	}
+
+	@media (max-width: 767px) {
+		.markdown-body {
+			padding: 15px;
+		}
+	}
 </style>
+<article class="markdown-body">
+	<h1>Unicorns</h1>
+	<p>All the things</p>
+</article>
