@@ -1,12 +1,4 @@
 #!/bin/bash
-echo "Hola, Unkn0wn"
-
-if [ "$EUID" -ne 0 ]; then
-        echo "Este script necesita privilegios de SuperUsuario"
-        sudo
-        exec sudo bash "$0" "$@"
-fi
-
 echo "Bienvenido, SuperUsuario. Espere un momento..."
 sudo sysctl -w  net.ipv4.ip_forward=1
 sudo iptables -F
